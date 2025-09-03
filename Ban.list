@@ -3,7 +3,8 @@
 # 广告关键词
 # DOMAIN-KEYWORD,admarvel
 
-
+#鼠标手势
+DOMAIN-SUFFIX,api.mousegesturesapi.com
 # 广告域名****************
 DOMAIN-SUFFIX,tvfuwu.com
 DOMAIN-SUFFIX,atianqi.com
