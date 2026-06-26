@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,easyemby.com
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,debian.org
 #lite
+DOMAIN-SUFFIX,si
 DOMAIN-SUFFIX,xyz
 DOMAIN-SUFFIX,tv
 DOMAIN-SUFFIX,media
