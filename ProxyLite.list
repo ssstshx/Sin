@@ -1,5 +1,6 @@
 #emby
 DOMAIN-SUFFIX,easyemby.com
+DOMAIN-SUFFIX,tv
 #Pve
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,debian.org
@@ -9,7 +10,6 @@ DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,si
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,xyz
-DOMAIN-SUFFIX,tv
 DOMAIN-SUFFIX,media
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,059599.xyz
