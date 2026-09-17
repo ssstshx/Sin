@@ -5,6 +5,8 @@
     "domain": [
       "domain:proxmox.com",
       "domain:debian.org",
+      "domain:zuidouyin.com/",
+      "domain:liugehedan.com",
       "domain:cloudflare.com",
       "domain:tsyndicate.com",
       "domain:si",
